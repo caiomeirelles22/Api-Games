@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Api-Games/static/css/main.440dce20.css",
-    "main.js": "/Api-Games/static/js/main.b3fe29f2.js",
-    "static/js/787.28cb0dcd.chunk.js": "/Api-Games/static/js/787.28cb0dcd.chunk.js",
-    "index.html": "/Api-Games/index.html",
-    "main.440dce20.css.map": "/Api-Games/static/css/main.440dce20.css.map",
-    "main.b3fe29f2.js.map": "/Api-Games/static/js/main.b3fe29f2.js.map",
-    "787.28cb0dcd.chunk.js.map": "/Api-Games/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/games/static/css/main.440dce20.css",
+    "main.js": "/games/static/js/main.419ac4f1.js",
+    "static/js/787.28cb0dcd.chunk.js": "/games/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/games/index.html",
+    "main.440dce20.css.map": "/games/static/css/main.440dce20.css.map",
+    "main.419ac4f1.js.map": "/games/static/js/main.419ac4f1.js.map",
+    "787.28cb0dcd.chunk.js.map": "/games/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.440dce20.css",
-    "static/js/main.b3fe29f2.js"
+    "static/js/main.419ac4f1.js"
   ]
 }
